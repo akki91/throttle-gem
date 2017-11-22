@@ -75,5 +75,5 @@ Expected Output:
 
 In Your Service where this gem is used, 3 things needs to be done
  - Redis Namespace Initilization ()
- - Use this middleware in application.rb
- - create config/throttle.yml with rules 
+ - Use this middleware in application.rb (https://github.com/akki91/Sample-Config/blob/master/appliation.rb)
+ - create config/throttle.yml with rules (https://github.com/akki91/Sample-Config/blob/master/throttle.yml.sample)
